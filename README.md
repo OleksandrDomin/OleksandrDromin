@@ -48,9 +48,13 @@ These projects have allowed me to develop both my communicative and creative ski
 I will be using this GitHub profile to showcase my projects and progress as a web developer.   I'm excited to share what I create and collaborate with other members of the developer community.  
 
 ## :crayon: Statistic
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OleksandrDromin&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OleksandrDomin&theme=tokyonight)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrDromin&theme=dark&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OleksandrDomin&theme=discord&rank=-C,-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrDomin&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OleksandrDomin&theme=tokyonight)
+
 
 ## :crayon: My Contacts
 I'm always ready to communicate with fellow developers, so feel free to reach out to me.   If you're interested in collaboration, discussing programming, or just want to say hello, all you need to do is send me a message. Let's create amazing things together!  
