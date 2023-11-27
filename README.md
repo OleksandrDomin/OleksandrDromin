@@ -6,7 +6,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## :man_technologist: Shortly about myself:
-I am a novice web developer eager to enhance my knowledge and skills in programming. The world of web development has always fascinated me, and I have been striving to broaden my understanding and abilities. Although relatively new to this field, I bring valuable experience and a keen desire to expand it.
+I am a beginner web developer eager to enhance my knowledge and skills in programming. The world of web development has always fascinated me, and I have been striving to broaden my understanding and abilities. Although relatively new to this field, I bring valuable experience and a keen desire to expand it.
 
 I am excited to join the community of developers working on meaningful and impactful projects. I thoroughly enjoy spending hours immersed in coding. I have actively participated in group projects, tackling challenges that were initially complex for us but incredibly engaging.
 
