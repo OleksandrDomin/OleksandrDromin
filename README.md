@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200"/>
 </div>
 
-<!-- <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dominoleksandr" target="_blank">Oleksandr</a> 
+ <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dominoleksandr" target="_blank">Oleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div id="badges" align="center">
+<!--<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dominoleksandr/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
