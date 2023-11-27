@@ -47,8 +47,10 @@ These projects have allowed me to develop both my communicative and creative ski
 ## :crayon: Projects
 I will be using this GitHub profile to showcase my projects and progress as a web developer.   I'm excited to share what I create and collaborate with other members of the developer community.  
 
-## :crayon: My Contacts
+## :crayon: Statistic
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OleksandrDomin)](https://git.io/streak-stats)
 
+## :crayon: My Contacts
 I'm always ready to communicate with fellow developers, so feel free to reach out to me.   If you're interested in collaboration, discussing programming, or just want to say hello, all you need to do is send me a message. Let's create amazing things together!  
 
 <img src="https://komarev.com/ghpvc/?username=acvetochka&style=flat-square&color=blue" alt=""/>
