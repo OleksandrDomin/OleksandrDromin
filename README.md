@@ -50,8 +50,10 @@ I will be using this GitHub profile to showcase my projects and progress as a we
 ## :crayon: Statistic
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OleksandrDromin&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrDromin&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OleksandrDromin&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrDromin&theme=dark&show_icons=true)
 
 ## :crayon: My Contacts
 I'm always ready to communicate with fellow developers, so feel free to reach out to me.   If you're interested in collaboration, discussing programming, or just want to say hello, all you need to do is send me a message. Let's create amazing things together!  
