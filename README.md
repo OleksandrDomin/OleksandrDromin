@@ -50,9 +50,6 @@ I will be using this GitHub profile to showcase my projects and progress as a we
 ## :crayon: Statistic
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OleksandrDromin&theme=tokyonight)](https://git.io/streak-stats)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OleksandrDromin&theme=tokyonight)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrDromin&theme=dark&show_icons=true)
 
 ## :crayon: My Contacts
