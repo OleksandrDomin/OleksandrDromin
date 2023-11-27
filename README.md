@@ -80,4 +80,4 @@ I'm always ready to communicate with fellow developers, so feel free to reach ou
 
 
 Let's make this world better together!:earth_africa:   
-Thanks for stopping by, and I look forward to the opportunity to connect with you in the field of web development. 
+Thanks for stopping by, and I look forward to the opportunity to connect with you in the field of web development. <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
