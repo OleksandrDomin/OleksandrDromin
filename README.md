@@ -28,12 +28,14 @@ These projects have allowed me to develop both my communicative and creative ski
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![BEM](https://img.shields.io/badge/BEM-20232a?style=for-the-badge&logo=bem&logoColor=white)
 
+
 **Backend**:
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Mongoose](https://img.shields.io/badge/Mongoose-gray?style=for-the-badge&logo=mongoose&logoColor=880000)
+
 
  **Utilites**:
 
@@ -52,10 +54,12 @@ I will be using this GitHub profile to showcase my projects and progress as a we
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OleksandrDomin&theme=tokyonight)
 
-
 ## :crayon: My Contacts
 I'm always ready to communicate with fellow developers, so feel free to reach out to me.   If you're interested in collaboration, discussing programming, or just want to say hello, all you need to do is send me a message. Let's create amazing things together!  
 
+<a href="https://www.linkedin.com/in/dominoleksandr/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://t.me/Aleksandr_Czech" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:o.v.domin@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <img src="https://komarev.com/ghpvc/?username=OleksandrDomin&style=flat-square&color=blue" alt=""/>
 
 
