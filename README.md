@@ -51,11 +51,7 @@ I will be using this GitHub profile to showcase my projects and progress as a we
 
 I'm always ready to communicate with fellow developers, so feel free to reach out to me.   If you're interested in collaboration, discussing programming, or just want to say hello, all you need to do is send me a message. Let's create amazing things together!  
 
-
-
-
-
 <img src="https://komarev.com/ghpvc/?username=acvetochka&style=flat-square&color=blue" alt=""/>
 
-
-Let's make this world better together!:earth_africa:   Thanks for stopping by, and I look forward to the opportunity to connect with you in the field of web development. 
+Let's make this world better together!:earth_africa:   
+Thanks for stopping by, and I look forward to the opportunity to connect with you in the field of web development. 
