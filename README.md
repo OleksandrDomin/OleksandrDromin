@@ -5,6 +5,12 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dominoleksandr" target="_blank">Oleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<div id="header" align="center">
+<a href="https://www.linkedin.com/in/dominoleksandr/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://t.me/Aleksandr_Czech" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:o.v.domin@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+</div>
+
 ## :man_technologist: Shortly about myself:
 I am a beginner web developer eager to enhance my knowledge and skills in programming. The world of web development has always fascinated me, and I have been striving to broaden my understanding and abilities. Although relatively new to this field, I bring valuable experience and a keen desire to expand it.
 
@@ -60,6 +66,7 @@ I'm always ready to communicate with fellow developers, so feel free to reach ou
 <a href="https://www.linkedin.com/in/dominoleksandr/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://t.me/Aleksandr_Czech" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:o.v.domin@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 <img src="https://komarev.com/ghpvc/?username=OleksandrDomin&style=flat-square&color=blue" alt=""/>
 
 
