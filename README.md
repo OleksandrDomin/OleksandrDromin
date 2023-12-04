@@ -18,7 +18,6 @@
   </a>
 </div>-->
 
----
 ## :crayon:  Shortly about myself:
 I am a beginner web developer eager to enhance my knowledge and skills in programming. The world of web development has always fascinated me, and I have been striving to broaden my understanding and abilities. Although relatively new to this field, I bring valuable experience and a keen desire to expand it.
 
