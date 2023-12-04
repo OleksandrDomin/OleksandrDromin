@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div> -->
+---
 
 ## :man_technologist:  Shortly about myself:
 I am a beginner web developer eager to enhance my knowledge and skills in programming. The world of web development has always fascinated me, and I have been striving to broaden my understanding and abilities. Although relatively new to this field, I bring valuable experience and a keen desire to expand it.
@@ -62,6 +63,7 @@ I will be using this GitHub profile to showcase my projects and progress as a we
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OleksandrDomin&theme=tokyonight)
 
+---
 ## :crayon: My Contacts
 I'm always ready to communicate with fellow developers, so feel free to reach out to me.   If you're interested in collaboration, discussing programming, or just want to say hello, all you need to do is send me a message. Let's create amazing things together!  
 
