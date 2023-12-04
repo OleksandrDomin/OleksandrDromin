@@ -18,14 +18,14 @@
   </a>
 </div>-->
 
-## :crayon:  Shortly about myself:
+## Shortly about myself:
 I am a beginner web developer eager to enhance my knowledge and skills in programming. The world of web development has always fascinated me, and I have been striving to broaden my understanding and abilities. Although relatively new to this field, I bring valuable experience and a keen desire to expand it.
 
 I am excited to join the community of developers working on meaningful and impactful projects. I thoroughly enjoy spending hours immersed in coding. I have actively participated in group projects, tackling challenges that were initially complex for us but incredibly engaging.
 
 These projects have allowed me to develop both my communicative and creative skills, which I believe will be valuable in my career as a web developer. I look forward to contributing to and learning from the dynamic world of web development.
 
-## :crayon: My stack:
+## My stack:
 **Frontend**:
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
